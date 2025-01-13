@@ -1,0 +1,8 @@
+langchain
+langchain-community 
+langchain-core
+langchain-aws
+boto3
+botocore
+pymysql
+pandas
